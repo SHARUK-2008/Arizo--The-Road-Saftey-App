@@ -162,7 +162,7 @@ lib/
 | **Karumuhilarsu K N** | Android Developer | Chennai Institute of Technology |
 | **Ashwin Gowtham B** | UI/UX Designer | Chennai Institute of Technology |
 | **Sri kanthan M** | Backend Developer | Chennai Institute of Technology |
-|**Abishal Bose s**|backend developer|Android Developer | Chennai Institute of Technology |
+|**Abishal Bose s**|Backend developer|Chennai Institute of Technology |
 
 📧 Contact: sharukifras011@gmail.com
 
